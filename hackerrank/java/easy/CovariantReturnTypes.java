@@ -51,7 +51,7 @@ class AndhraPradesh extends Region {
     }
 }
 
-public class covariant_return_types {
+public class CovariantReturnTypes {
 
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
