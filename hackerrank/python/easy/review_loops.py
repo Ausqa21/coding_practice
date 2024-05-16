@@ -45,7 +45,6 @@ def x() -> List[Dict]:
         output.append(pairing)
 
     return output
-    
 
 
 if __name__ == "__main__":
